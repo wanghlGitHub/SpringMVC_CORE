@@ -1,10 +1,10 @@
-package com.gupaoedu.demo.mvc.controller;
+package com.king.demo.mvc.controller;
 
-import com.gupaoedu.demo.service.IDemoService;
-import com.gupaoedu.mvcframework.v3.annotation.GPAutowired;
-import com.gupaoedu.mvcframework.v3.annotation.GPController;
-import com.gupaoedu.mvcframework.v3.annotation.GPRequestMapping;
-import com.gupaoedu.mvcframework.v3.annotation.GPRequestParam;
+import com.king.demo.service.IDemoService;
+import com.king.mvcframework.annotation.GPAutowired;
+import com.king.mvcframework.annotation.GPController;
+import com.king.mvcframework.annotation.GPRequestMapping;
+import com.king.mvcframework.annotation.GPRequestParam;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

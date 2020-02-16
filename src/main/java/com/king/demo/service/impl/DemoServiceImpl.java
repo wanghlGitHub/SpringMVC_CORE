@@ -1,7 +1,7 @@
-package com.gupaoedu.demo.service.impl;
+package com.king.demo.service.impl;
 
-import com.gupaoedu.demo.service.IDemoService;
-import com.gupaoedu.mvcframework.v3.annotation.GPService;
+import com.king.demo.service.IDemoService;
+import com.king.mvcframework.annotation.GPService;
 
 /**
  * @program: spring_core_300
